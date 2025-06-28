@@ -254,3 +254,4 @@ if(EXISTS "${CMAKE_ROOT}/Modules/CPack.cmake")
 endif(EXISTS "${CMAKE_ROOT}/Modules/CPack.cmake")
 
 
+add_subdirectory(test)
